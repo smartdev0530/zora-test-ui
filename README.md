@@ -1,1 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the ui for the test of zora marketplace.
+Here we use graphql to fetch data and add "auction" and "buy it now"
+
